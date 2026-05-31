@@ -27,18 +27,18 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 
 
 ## Circuit Diagram : 
-<img width="1258" height="752" alt="WhatsApp Image 2026-05-16 at 11 36 09 AM" src="https://github.com/user-attachments/assets/930e6e5a-5935-498c-8e1f-a444bacc3e6e" />
+<img width="1258" height="752" alt="image" src="https://github.com/user-attachments/assets/3386bdf7-aa9e-4ccd-883f-e4e73baa12ac" />
 
 ## Output Tabulation:
-<img width="617" height="317" alt="WhatsApp Image 2026-05-16 at 11 36 22 AM" src="https://github.com/user-attachments/assets/4923499a-9b93-430b-bb19-ff13a1f68f3a" />
+<img width="617" height="317" alt="image" src="https://github.com/user-attachments/assets/3e290290-d81f-4876-9d80-18fe1abb5960" />
 
 ## Unbalanced load:
 
 ## Circuit diagram:
-<img width="1247" height="788" alt="WhatsApp Image 2026-05-19 at 11 21 57 AM" src="https://github.com/user-attachments/assets/9ed47c18-60e8-438d-a065-9c059d572876" />
+<img width="1247" height="788" alt="image" src="https://github.com/user-attachments/assets/97c5449b-fafe-475a-a8fe-ca59ce9d79f0" />
 
 ## Output:
-<img width="567" height="281" alt="WhatsApp Image 2026-05-19 at 11 21 58 AM" src="https://github.com/user-attachments/assets/41deb762-7cb8-4771-9aa3-77fb950cd372" />
+<img width="567" height="281" alt="image" src="https://github.com/user-attachments/assets/1d586860-f078-482e-9a9d-777f361887af" />
 
 ## Result:
 Thus three phase power using wattmeter is verified successfully. 
